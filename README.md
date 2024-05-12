@@ -5,8 +5,9 @@ OpenCV: For image and video processing
 Face Recognition: For face detection and recognition 
 Pickle: For storing and retrieving face data
 
+##########################################################################################################
 __________________________________________________________________________________________________________
-##Usage
+#Usage
 
 Run faces_data.py to create or update the face data pickle file.
 Run take_attendance.py to start the attendance system.
